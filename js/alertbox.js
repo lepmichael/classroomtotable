@@ -1,4 +1,3 @@
-(function myFunction() {
-    if (screen.width <= 699) {
-document.location = "google.com";
-})();
+if (screen.width <= 699) {
+document.location = "mobile.html";
+}
